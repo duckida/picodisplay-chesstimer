@@ -4,10 +4,13 @@ Chess clock/timer for Pico Display
 ### What you will need:
 - Raspberry Pi Pico
 - Pimoroni Pico Display
+- Pimoroni Pico LiPo Shield + LiPo battery (optional)
 - Micro-USB Cable
 - Computer
 
 ### Instructions
+
+Connect the Pico to the Pico Display (optionally adding the LiPo shield in the middle) and plug the device into your computer!
 
 1. Install the <a href="https://github.com/pimoroni/pimoroni-pico/releases">Pimoroni MicroPython UF2</a> to your Pico
 2. Open Thonny (or any other editor) and copy the code from `main.py`
